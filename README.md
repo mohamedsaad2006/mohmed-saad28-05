@@ -14,7 +14,7 @@
 - ⚡ Fun Fact: I'm a qurran enthusiast and my perfect day would start and end with a reading of qurran.
 - 👨‍💻 Check out my portfolio at https://Mohamed_saad.app/ to see some of the projects I've worked on.
 ### Connect with Me :
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-saad-44856b17a" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-saad-44856b17a" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/mohamed01" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Saad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
